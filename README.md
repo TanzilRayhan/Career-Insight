@@ -1,8 +1,8 @@
 # Career-Insight
-Java Swing (GUI) Project
-OOP1 Final Project (JAVA)
-Department of Computer Science
+Java Swing (GUI) Project - 
+Department of Computer Science - 
 Final Term Project Report, Summer 2021-22
+
 Course: OBJECT ORIENTED PROGRAMMING 1 (JAVA)
 
 OOP Principals Covered -
